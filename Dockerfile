@@ -12,3 +12,5 @@ RUN cmake --build _build
 RUN cmake --build _build --target install
  
 ENTRYPOINT ./_build/hello_world_app 
+
+
