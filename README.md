@@ -52,3 +52,5 @@ sudo docker build -t hello_world .
 ```
 docker run hello_world
 ```
+
+![изображение](https://github.com/KseniaGavr/lab07/assets/126020574/c8344542-dcf8-4520-9e8f-ef8ef8d0feb8)
